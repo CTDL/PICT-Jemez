@@ -1,2 +1,2 @@
-# Unity-3dModelViewer
-Unity Project
+# Jemez-3dModelViewer
+Unity Project for Jemez Histic Site
